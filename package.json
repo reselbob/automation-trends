@@ -1,0 +1,27 @@
+{
+  "name": "automation-trends",
+  "version": "1.0.0",
+  "description": "A simple API that provides calculated data about trends in automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "api",
+    "import.io"
+  ],
+  "author": "Bob Reselman",
+  "license": "ISC",
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "body-parser": "^1.17.1",
+    "chai": "^3.5.0",
+    "express": "^4.15.2",
+    "lodash": "^4.17.4",
+    "mocha": "^3.2.0",
+    "node-uuid": "^1.4.7",
+    "request": "^2.80.0",
+    "request-promise": "^4.1.1",
+    "supertest": "^3.0.0"
+  }
+}
